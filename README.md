@@ -60,4 +60,20 @@ The original dataset was collected using the BoniRob agricultural robot platform
 
 ## Download
 
-This project sample in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/project.zip)
+This project is available in two formats in Supervisely format:
+
+- **Video project** (with tracking annotations): [Download ZIP archive](https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/project_videos.zip)
+- **Images project** (frame-by-frame annotations): [Download ZIP archive](https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/project_images.zip)
+
+### How to Import
+
+Since this is a **multiview project** with synchronized RGB and NIR data streams, follow these steps to import it correctly:
+
+1. Go to **Projects** in your Supervisely workspace
+2. Click **+ New** → **New Project**
+3. Choose the data type: **Videos** or **Images** (depending on which archive you downloaded)
+4. In the **Labeling interface** select **Multiview**
+5. Upload the downloaded ZIP archive
+6. The multiview structure (RGB + NIR pairs) will be automatically preserved
+
+<img src="https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/import.png" />
