@@ -1,0 +1,12 @@
+{
+    "name": "Sugar Beet Multiview Images and Video Tracking Sample Project annotated",
+    "description": "Annotated multiview sample project with images and videos featuring tractor-mounted camera footage of sugar beet field with growing leaves.",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/agro-field-tracking-video-sample-annotated/releases/download/v1.0.0/icon6.png",
+    "icon_cover": true
+}
