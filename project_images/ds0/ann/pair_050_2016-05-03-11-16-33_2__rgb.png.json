@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_050_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:41.756Z",
+            "createdAt": "2026-04-22T10:28:41.756Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    496,
+                    320
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI+QKzJyAwklybENgIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcno8XRxDKubknt8r2qDAw/Lgc+SFkxx9hzIMpBYbNC1t7ffo8NRZ8EvOfjrzDG2h0ItuLr4SbPoPX57xM3p3aq/LLyGnp+HG5ltOHtpzKWD+z+2pHzUsxcO0FWbHCFzQY70War7Y5ZPXOZ/+zVp/ay7P/8A/y+jH1R1LzCUOh52pX+VgX/b88Z7em12KkYZzxLoPf2HaMaGkqTUmXBLoLgZPVz+XdU4JTQBgo1oG"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:54.446Z",
+            "createdAt": "2026-04-22T10:28:54.446Z",
+            "id": 24757306,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    497,
+                    811
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIuQCzPyAwkU6b8PAqk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyOn0dHEMqZiTe36v4FEFDoYEi+4pNx9Ydi1+yRapuTilZYrInBb7yc8K7/3UVOJK2BgrsJF7+aozUzpYurJSglpK8h4VVp169GlKwXTpXY8WLNu01sm0NeTLnCQlZ3m1YzPnBkWdfpA7u7RrW4b4EeY3TcYmOQ9NrZzsr85d3/6tc9qrX6pvXk/f8DewsnW9Q7Z8eVN284z2t9eBjmLwdPVzWeeU0AQA0LFdQA=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:54.446Z",
+            "createdAt": "2026-04-22T10:28:54.446Z",
+            "id": 24757307,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

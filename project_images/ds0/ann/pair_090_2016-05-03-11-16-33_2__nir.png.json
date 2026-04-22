@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_090_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:38.754Z",
+            "createdAt": "2026-04-22T10:29:38.754Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    508,
+                    4
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ8IDYjM5BcLHTWBkixBfiEuALp////L705/y6QxVgS5BfM4PDsRhqQI+/p4hhSMSd5wv+DCf/ZW179N/jj7mbvsEJO43ej4z9Ghs46kY4bs06BrGDwdPVzWeeU0AQARdolUQ=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:54.048Z",
+            "createdAt": "2026-04-22T10:29:54.048Z",
+            "id": 24757498,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "weed",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    930,
+                    374
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKiQCzPyAwkjZxENgMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDclw8XRxDKuYkT6g/cCDhf2Pjwn/szIf/23tIHLFnOMLr8YPBZd0/eYH/7K+YuU78B6r5/5+Z2Vri/4GumQtnCOZonDCasJSX4f4ds5iXc6SPA81j8HT1c1nnlNAEADlsNxU="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:54.048Z",
+            "createdAt": "2026-04-22T10:29:54.048Z",
+            "id": 24757499,
+            "classId": 197513,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

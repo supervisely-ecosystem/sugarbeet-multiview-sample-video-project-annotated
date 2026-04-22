@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_071_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:09.619Z",
+            "createdAt": "2026-04-22T10:29:09.619Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    556,
+                    103
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLKQCzCyAwkbTPE+IEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOYGeLo4hFXNMz2zkbTAQcL4oH7gkhcUtUXeXgdRiAyZV1kM/dAQ1/dWfyzQ89L6cuPsc16llm46r8lUe31imNvu49LP6o2dD/X9Nvxr9P+2I6HyWnKPsXLE6E27fOfwKaDiDp6ufyzqnhCYA6+Q6bg=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:21.150Z",
+            "createdAt": "2026-04-22T10:29:21.150Z",
+            "id": 24757414,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    538,
+                    130
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI8QCzMyAwk51nXvQJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Oh6ujiGVMxJTqg7cOAfY8sPe4MT9Qkb/h8I+N/40F7A9oADu8SrxhWNB+c1OrYxMlxMkvj/yro2AaiRwdPVz2WdU0ITAPnHLTo="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:21.150Z",
+            "createdAt": "2026-04-22T10:29:21.150Z",
+            "id": 24757415,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

@@ -1,0 +1,41 @@
+{
+    "id": 6150167,
+    "name": "pair_042_2016-05-03-11-16-33_2__rgb.png",
+    "link": null,
+    "hash": "SmZgz1gs+w6NqsT/BiOyzvPnNRUz7KyXQ6HJA0X7kHs=",
+    "mime": "image/png",
+    "ext": "png",
+    "size": 1111815,
+    "width": 1296,
+    "height": 966,
+    "labels_count": 1,
+    "dataset_id": 44048,
+    "created_at": "2026-04-22T10:28:37.323Z",
+    "updated_at": "2026-04-22T10:28:48.474Z",
+    "meta": {
+        "group": "pair_042_2016-05-03-11-16-33_2",
+        "camera": "rgb",
+        "pairIndex": 42
+    },
+    "path_original": "/supervisely-dev/images/original/v/r/4i/o1tslkjtxmw7nibbkhmck8zzgkfviux98k0s0fodusr38eg7pmocexhwlglqyilxzkjlsbeazhdm1mye84krswmgi2ao889ggbqrpmjutg92qyv45rdcmpfzkceq.png",
+    "full_storage_url": "https://dev.internal.supervisely.com/supervisely-dev/images/original/v/r/4i/o1tslkjtxmw7nibbkhmck8zzgkfviux98k0s0fodusr38eg7pmocexhwlglqyilxzkjlsbeazhdm1mye84krswmgi2ao889ggbqrpmjutg92qyv45rdcmpfzkceq.png",
+    "tags": [
+        {
+            "entityId": 6150167,
+            "tagId": 36784,
+            "id": 1597792,
+            "value": "pair_042_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "createdAt": "2026-04-22T10:28:38.327Z",
+            "updatedAt": "2026-04-22T10:28:38.327Z"
+        }
+    ],
+    "created_by": null,
+    "related_data_id": null,
+    "download_id": null,
+    "offset_start": null,
+    "offset_end": null,
+    "ai_search_meta": null,
+    "embeddings_updated_at": null,
+    "project_id": null
+}

@@ -1,0 +1,53 @@
+{
+    "classes": [
+        {
+            "title": "weed",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#FFED00",
+            "geometry_config": {},
+            "id": 197513,
+            "hotkey": ""
+        },
+        {
+            "title": "sugar beet",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#FF00C8",
+            "geometry_config": {},
+            "id": 197512,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "multiview",
+            "value_type": "any_string",
+            "color": "#120F8A",
+            "id": 36784,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        },
+        {
+            "name": "@label-group-id",
+            "value_type": "any_string",
+            "color": "#6E8A0F",
+            "id": 36785,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": true,
+            "tagName": "multiview",
+            "tagId": 36784,
+            "isSynced": false
+        }
+    }
+}

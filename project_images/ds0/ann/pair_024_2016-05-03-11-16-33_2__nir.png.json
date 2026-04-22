@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_024_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:01.891Z",
+            "createdAt": "2026-04-22T10:28:01.891Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    622,
+                    535
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLGQCzDyAwkv00V7QJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5MR6ujiGVMwJ7dvIe8CAg0U2cMcZDsmjiy0XV4q4ecw8xOX4rENklvaO55pF00z/ct1q4d/yRFbO6bfEo4lOZ13MU4W757qoKnac+3r4GOvzJZdWcBzUZuP1CuB8sX6j48aPTMs3O0bentxqBrSIwdPVz2WdU0ITANYlQHQ="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:15.365Z",
+            "createdAt": "2026-04-22T10:28:15.365Z",
+            "id": 24757168,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "weed",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    615,
+                    253
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKSQMzHyAwkH3xRBVFsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbk2Hm6OIZUzElOSHiQzMBUrZD25/6BAwd4lCX6/6cnJPz/39/o+O8//4Km//wSEq/+yyck/PjPuELsSMIP9kuRDEcYus+LaOtF7HsMNInB09XPZZ1TQhMAN8c09A=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:15.365Z",
+            "createdAt": "2026-04-22T10:28:15.365Z",
+            "id": 24757169,
+            "classId": 197513,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

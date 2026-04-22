@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_034_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:07.734Z",
+            "createdAt": "2026-04-22T10:28:07.734Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    502,
+                    232
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKyQGzCyAwkff4t3ASk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyMn3dHEMqZiTe+4gb4OCCPMFIX65yAMnlNjEjCdelDkqaFGlUBedbCKh/94p0/6BVsM7hXsem5hmvC1YtFvzxdmwhRGiPaynm/Y3eV1SC5sYfcGga6Hqtpq449sfrHpuNm3ujW69C5UWWyKZZzJfvuz85Wf5CxYHDosTG6MPqAOtZvB09XNZ55TQBAALNEpP"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:29.157Z",
+            "createdAt": "2026-04-22T10:28:29.157Z",
+            "id": 24757225,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    494,
+                    747
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJuQGzPyAwk08/qnANSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5HR5ujiGVMxZe86Q67ABD2tAK49kaeOFmCUm4tpPsiy9+h5cbF6RdfMav8jlihPz5Zw85mu0Kk/1WbWwI/R1QehV22zvSTpbbzybkDr7cf+SObtDWi7tndn80iNe1f9t/Ra+oFBrR+4juqzXDzv6v7g7wYIto2WZn+GWkizbrz+Xr1WcOlvUWlTKaoGsr+yXohrGecr9XPbnT5UCXcXg6ernss4poQkAoTtWlw=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:29.157Z",
+            "createdAt": "2026-04-22T10:28:29.157Z",
+            "id": 24757226,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "weed",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    391,
+                    191
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIqQMzDyAwkDQx7G4AUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBObaeLo4hFXOSNRIYGv+zH3jCbPBT3uXa//wN6QkT/tc/qGdm/v2/XYH1//9mkRtAIxobG/8adKQk2PxjXPOfkWFBi/SK6wz7JIEGMXi6+rmsc0poAgD0ZjU+"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:29.157Z",
+            "createdAt": "2026-04-22T10:28:29.157Z",
+            "id": 24757227,
+            "classId": 197513,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

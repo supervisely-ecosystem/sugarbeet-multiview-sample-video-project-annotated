@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_056_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:28:45.367Z",
+            "createdAt": "2026-04-22T10:28:45.367Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    516,
+                    130
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIWQKzKyAwkdRl2SAAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcvI8XRxDKuaEnt3Ie0BBgPlAv4aGMdNiA6meYxo9DjOZjlYmeSuaqB/4Z/65eIGezsNHot+NmCLSIlW+vPc7Znjnwba1ZU2PhS483Xf0eFmu4TH22vTdPpGPNouenJb/1FRDbvkjo9VxKv++nl82xyf0daoKf4+iV5Z7m2wR0GYGT1c/l3VOCU0AYQ1JPA=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:00.886Z",
+            "createdAt": "2026-04-22T10:29:00.886Z",
+            "id": 24757332,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    504,
+                    730
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI8QCzKyAwkPZLmfgdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Oh5ujiGVMxJTrA7cOBfQ+N/xmYbiZuHA2wFahN+8LvzO6yQa+IzuGJucMPY4IQBA4OKmOTSSYKGC4A6GTxd/VzWOSU0AQB4TCf/"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:00.886Z",
+            "createdAt": "2026-04-22T10:29:00.886Z",
+            "id": 24757333,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

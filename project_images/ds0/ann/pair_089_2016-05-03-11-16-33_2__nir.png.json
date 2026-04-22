@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_089_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:38.171Z",
+            "createdAt": "2026-04-22T10:29:38.171Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    455,
+                    824
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLSQMzPyAwk9WPVZgMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcmw8XRxDKubIntwoeECB4bDD3cCANBa3RBOJ3kCJxklafXOfcXOuEivJ7TojPOtOXZXEJRN9D/M5Gw4dYc54J787UnXGgnq9VUBzGDxd/VzWOSU0AQCE/C7P"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:53.175Z",
+            "createdAt": "2026-04-22T10:29:53.175Z",
+            "id": 24757494,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    487,
+                    824
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLCQMzHyAwkv1/begpIsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYakGPk6eIYUjEneYX9gQMf/jMK1DM8+s/L8/U/v8ENZtYnjTPkO242zpDskHTsetV4Q67jJj8Dw1NXiYMVr456AXUzeLr6uaxzSmgCACPCL10="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:53.175Z",
+            "createdAt": "2026-04-22T10:29:53.175Z",
+            "id": 24757495,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

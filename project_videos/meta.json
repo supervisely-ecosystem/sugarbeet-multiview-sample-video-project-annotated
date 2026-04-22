@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "title": "sugar beet",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#0F2B8A",
+            "geometry_config": {},
+            "id": 197504,
+            "hotkey": ""
+        },
+        {
+            "title": "weed",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#0F348A",
+            "geometry_config": {},
+            "id": 197505,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "videos",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "multi_view"
+    }
+}

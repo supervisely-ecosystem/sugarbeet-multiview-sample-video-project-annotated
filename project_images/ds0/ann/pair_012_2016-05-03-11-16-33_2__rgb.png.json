@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_012_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:27:35.374Z",
+            "createdAt": "2026-04-22T10:27:35.374Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    562,
+                    154
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLyQOzByAwkTV7vMQVSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5LR7ujiGVMxpvbCRl1mRp/Vh+aIFKSxuiZt/uCVP6ZlgdJTz0fwWbnVXr8+ibtsqpyVNnfK+z3bOuxyBX8Fd3HHe6j97t09llU8Nr7rvOJktZ8k/x/qF3sf58xJ8NlppKl/wbPLY98JQ5MXtdTrMt8s/2u3P+iI6j1tfufQd+/QMmTShFb23T94IV+g9+5XVWDv9jZaEFwfQSQyern4u65wSmgArAVPx"
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:27:50.997Z",
+            "createdAt": "2026-04-22T10:27:50.997Z",
+            "id": 24757103,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    558,
+                    768
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKKQCzKyAwkPx0UnQ6k2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyPHzdHEMqZgT2rNRsMFA4PCZwCUpLG6JW1JM3E5yTBGROfSPT3xViudp7fWGZ+ZmysWo3bkUFPOws+kqb0cH/94T/ZufWmlNMJi6ftEqvXMb3H8yLK02U2Xm4jcCmszg6ernss4poQkATsk46g=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:27:50.997Z",
+            "createdAt": "2026-04-22T10:27:50.997Z",
+            "id": 24757104,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    550,
+                    793
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtICQKzByAwkz4q8eASk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyDH3dHEMqZiTnJCe8CA/YUK7Yh0bC1OnTMIG9sVVClUMTv/tD1zgl/jV3PhvIVDgF7/rt/8ST/4zMHDZmf5qDQg/CTSCwdPVz2WdU0ITAGaZL0s="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:27:50.997Z",
+            "createdAt": "2026-04-22T10:27:50.997Z",
+            "id": 24757105,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

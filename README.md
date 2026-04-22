@@ -7,7 +7,9 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#use-cases-for-farmers">Use cases for farmers</a> •
-  <a href="#download">Download</a>
+  <a href="#source-dataset--license">Source Dataset & License</a> •
+  <a href="#labeling-interface">Labeling Interface</a> •
+  <a href="#download">Download</a> •
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
@@ -43,9 +45,40 @@ Using the Supervisely platform, farmers and agronomists can:
 - Train and deploy custom CV models on their own field data using [Supervisely training pipelines](https://docs.supervisely.com/neural-networks/overview)
 - Build end-to-end labeling and model deployment workflows without leaving the platform
 
-<img src="https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/beetrootdemo.gif" />
-
 All annotations are stored in Supervisely format, compatible with the platform's video annotation tools and export options.
+
+## Source Dataset & License
+
+This sample project is derived from the **Sugar Beets 2016** dataset:
+
+- **Dataset Homepage**: [Sugar Beets 2016 on Dataset Ninja](https://datasetninja.com/sugar-beets-2016)
+- **Original Source**: [University of Bonn](https://www.ipb.uni-bonn.de/data/sugarbeets2016/)
+- **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+- **Citation**: Chebrolu, N., Lottes, P., Schaefer, A., Winterhalter, W., Burgard, W., & Stachniss, C. (2017). Agricultural robot dataset for plant classification, localization and mapping on sugar beet fields. _The International Journal of Robotics Research_.
+
+The original dataset was collected using the BoniRob agricultural robot platform equipped with multi-spectral cameras, RGB-D sensors, lidar, and GPS sensors over a three-month period in spring 2016.
+
+## Labeling Interface
+
+### Images Project
+
+In the **images project**, the multiview labeling interface displays RGB and NIR images side by side. Each image pair represents a single frame, and **each annotation is unique and independent** — meaning that annotations on one frame do not automatically appear on other frames. This format is ideal for:
+
+- Detailed frame-by-frame analysis
+- Training instance segmentation models
+- Cases where plant appearance varies significantly between frames
+
+<img src="https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/images_li.png" />
+
+### Videos Project
+
+In the **videos project**, the multiview interface provides synchronized playback of RGB and NIR video streams. Annotations use **object tracking** — when you annotate an object on one frame, it is automatically tracked across subsequent frames, maintaining the same object ID throughout the video. This approach:
+
+- Significantly reduces annotation time
+- Enables temporal analysis and motion tracking
+- Maintains object identity across the entire video sequence
+
+<img src="https://github.com/supervisely-ecosystem/SugarBeet-Multiview-Sample-project-annotated/releases/download/v1.0.0/beetrootdemo.gif" />
 
 ## Source Dataset & License
 

@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "size": {
+        "height": 966,
+        "width": 1296
+    },
+    "tags": [
+        {
+            "name": "multiview",
+            "value": "pair_092_2016-05-03-11-16-33_2",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:39.931Z",
+            "createdAt": "2026-04-22T10:29:39.931Z"
+        }
+    ],
+    "objects": [
+        {
+            "classTitle": "sugar beet",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    493,
+                    422
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJCQGzPyAwkrxtx/QFSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5GR5ujiGVMzJPbeRt0FBpOXh6zcpLNc2GCTqaiWauBWyeHMr/+OQStLZ11Tw/u7ktMwTk04KvkyttPdZN/O2pxjfQgsr621payNCXT2SXLhXXL3y0cLq3+f4Tws7fLOizt/e/f/+kxMWn6ZFnp4XuIvBNsj5k/jKa/1AWxk8Xf1c1jklNAEAHLVKkg=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:55.920Z",
+            "createdAt": "2026-04-22T10:29:55.920Z",
+            "id": 24757512,
+            "classId": 197512,
+            "nnCreated": false,
+            "nnUpdated": false
+        },
+        {
+            "classTitle": "weed",
+            "description": "",
+            "tags": [],
+            "bitmap": {
+                "origin": [
+                    332,
+                    60
+                ],
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKiQCzCyAwkI1qfFAAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDchw9XRxDKuYkJyT8OHDgwA/mxpmNM+Q11PgP80tIvOE3MPifn/DgP/+Tf4kJK9i1fvJP+cU/hYnL+A9QPQOXsYiBAQNDyhmx00eOnX4PNIzB09XPZZ1TQhMAZ3wy2g=="
+            },
+            "shape": "bitmap",
+            "geometryType": "bitmap",
+            "labelerLogin": "iwatkot",
+            "updatedAt": "2026-04-22T10:29:55.920Z",
+            "createdAt": "2026-04-22T10:29:55.920Z",
+            "id": 24757513,
+            "classId": 197513,
+            "nnCreated": false,
+            "nnUpdated": false
+        }
+    ],
+    "customBigData": {}
+}

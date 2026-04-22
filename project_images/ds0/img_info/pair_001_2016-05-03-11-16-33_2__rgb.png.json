@@ -1,0 +1,31 @@
+{
+    "id": 6150085,
+    "name": "pair_001_2016-05-03-11-16-33_2__rgb.png",
+    "link": null,
+    "hash": "k5WJj1TK/vbRzvLuy+f99ikKT5/yM2pjhpHh0dIiuZQ=",
+    "mime": "image/png",
+    "ext": "png",
+    "size": 1108335,
+    "width": 1296,
+    "height": 966,
+    "labels_count": 4,
+    "dataset_id": 44048,
+    "created_at": "2026-04-22T10:27:30.517Z",
+    "updated_at": "2026-04-22T12:09:52.682Z",
+    "meta": {
+        "group": "pair_001_2016-05-03-11-16-33_2",
+        "camera": "rgb",
+        "pairIndex": 1
+    },
+    "path_original": "/supervisely-dev/images/original/0/v/xm/s5tlpjdocdxasuohzfaqpz9wqgwcevokicwgx3bzfe4xd1eziikhsdcbc8kzlg0ycsof0imlgbj32lkz2cbp1r1ro9ere8prdujckvrlu2euxxu36vl8dje4dsoh.png",
+    "full_storage_url": "https://dev.internal.supervisely.com/supervisely-dev/images/original/0/v/xm/s5tlpjdocdxasuohzfaqpz9wqgwcevokicwgx3bzfe4xd1eziikhsdcbc8kzlg0ycsof0imlgbj32lkz2cbp1r1ro9ere8prdujckvrlu2euxxu36vl8dje4dsoh.png",
+    "tags": [],
+    "created_by": null,
+    "related_data_id": null,
+    "download_id": null,
+    "offset_start": null,
+    "offset_end": null,
+    "ai_search_meta": null,
+    "embeddings_updated_at": null,
+    "project_id": null
+}
